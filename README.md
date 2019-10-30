@@ -132,3 +132,10 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+Javascript
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Boss Baale
+// GITHUB: https://github.com/Bossbaale
+
