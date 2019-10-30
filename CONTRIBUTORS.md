@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-Name: Abiodun 
-Place: Minna, Nigeria 
-Bio: Web developer 
-Github: BossBaale
+### Name: Abiodun 
+  - Place: Minna, Nigeria 
+  -    Bio: Web developer 
+ -   Github: BossBaale
